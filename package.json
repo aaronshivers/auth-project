@@ -1,0 +1,23 @@
+{
+  "name": "auth-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronshivers/auth-project.git"
+  },
+  "author": "aaron shivers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronshivers/auth-project/issues"
+  },
+  "homepage": "https://github.com/aaronshivers/auth-project#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
